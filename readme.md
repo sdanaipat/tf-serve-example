@@ -1,7 +1,7 @@
 # Minimal Example to Deploy Keras models using Tensorflow Serving
 This guide aims to show you how to export a Keras model and serve it using Tensorflow Serving.
 
-[read more]()
+[read more](https://jokarubi.com/deploying-keras-models-using-tensorflow-serving/)
 
 ## Usage:
 ### 1. Export Keras model
